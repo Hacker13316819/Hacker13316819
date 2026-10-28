@@ -1,30 +1,28 @@
-# 👋 Hi, I'm Nalin! 💻🚀
+# 👋 Hi, I'm Nalin! 💻
 
-🌟 Welcome to my GitHub profile! I'm a passionate **software developer and technology enthusiast from Sri Lanka 🇱🇰** who loves turning creative ideas into practical digital solutions. 💡✨ I enjoy exploring new technologies 🔍, writing clean and efficient code ⚙️, designing modern user interfaces 🎨, and developing applications that solve real-world problems 🌍.
+### 🙋‍♂️ Who are you?
+I'm Nalin, a passionate software developer and technology enthusiast from Sri Lanka 🇱🇰. I love creating websites 🌐, desktop applications 🖥️, and innovative digital solutions 💡. I'm continuously learning new technologies and improving my programming skills 🚀. I'm also building **OPTICOREX** 🏢 — *Innovate. Design. Develop.*
 
-💻 My interests include 🌐 web development, 🖥️ desktop application development, 🎨 UI/UX design, 🗄️ database management, and 🛠️ software engineering. I work with technologies such as **HTML, CSS, JavaScript, PHP, Python, Java, C#, MySQL, and Tkinter** 🧑‍💻, and I'm continuously improving my skills 📚 by learning new tools and building exciting projects 🚀.
+### 🚀 What are you currently working on?
+- 🌐 Developing modern and responsive websites
+- 🖥️ Building desktop applications and software projects
+- 🗄️ Working with databases and management systems
+- 🎨 Exploring UI/UX design and creative digital solutions
+- 📚 Learning new technologies and improving my coding skills
 
-🌐 I enjoy creating responsive websites, user-friendly applications, and innovative software solutions while exploring different approaches to programming and problem-solving 🧩. My goal is to become a skilled developer 🏆, work on meaningful projects 🌟, collaborate with other developers 🤝, and transform my ideas into useful products 💎.
+### 🛠️ What tools do you use?
+- 💻 **Languages:** Python, Java, C#, JavaScript, PHP
+- 🌐 **Web:** HTML, CSS
+- 🗄️ **Database:** MySQL, SQL
+- 🖥️ **Development:** Tkinter, Visual Studio Code
+- 🔧 **Tools:** Git, GitHub
+- 🎨 **Design:** UI/UX tools and CapCut
 
-🏢 I'm also building my technology brand, **OPTICOREX** 🚀, with the vision of creating modern digital experiences through creativity 🎨, innovation 💡, and technology ⚡. I believe that every great developer starts with curiosity 🔎, grows through practice 💪, and succeeds through consistency 🎯. I'm always ready to learn 📖, experiment 🧪, face new challenges 🔥, and improve my coding skills one project at a time 📈.
+### 📬 How to reach you?
+- 🐙 **GitHub:** [Your GitHub Profile](https://github.com/)
+- 📍 **Location:** Sri Lanka 🇱🇰
+- 🤝 **Collaboration:** Open to exciting projects and learning opportunities
+- 💡 **Let's connect** and build something amazing together!
 
 ---
-
-🚀 **My Motto: Innovate. Design. Develop.**
-
-🌱 Always Learning | 💡 Always Creating | 💻 Always Coding
-
-🎯 **My Goals**
-- 🌐 Build amazing websites and applications
-- 🐍 Improve my programming skills
-- 🚀 Develop innovative software projects
-- 🤝 Collaborate with talented developers
-- 📚 Learn new technologies every day
-
----
-
-💖 **Thanks for visiting my profile!** Feel free to explore my repositories 📂, check out my projects 🛠️, and join me on my journey through the exciting world of technology 🌍.
-
-⭐ Don't forget to star ⭐ any projects you find interesting!
-
-✨ *Keep Learning. Keep Building. Keep Innovating.* 🔥
+✨ *Keep Learning. Keep Building. Keep Innovating.* 🚀
